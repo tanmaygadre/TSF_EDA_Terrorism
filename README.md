@@ -59,7 +59,7 @@ git clone https://github.com/tanmaygadre/TSF_EDA_Terrorism
 
 2. Navigate to the project directory:
 
-cd Exploratory Data Analysis on Terrorism
+cd TSF_EDA_Terrorism
 
 3. Open and run the Jupyter Notebook file named `Exploratory Data Analysis on Terrorism.ipynb` to reproduce the EDA and analysis.
 
