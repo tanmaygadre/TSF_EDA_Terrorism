@@ -54,9 +54,11 @@ pip install numpy pandas seaborn matplotlib
 ## Usage
 
 1. Clone the repository to your local machine:
-https://github.com/tanmaygadre/TSF_EDA_Terrorism
+
+git clone https://github.com/tanmaygadre/TSF_EDA_Terrorism
 
 2. Navigate to the project directory:
+
 cd Exploratory Data Analysis on Terrorism
 
 3. Open and run the Jupyter Notebook file named `Exploratory Data Analysis on Terrorism.ipynb` to reproduce the EDA and analysis.
