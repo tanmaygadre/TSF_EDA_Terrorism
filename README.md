@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is part of the GRIP (The Sparks Foundation) Data Science and Business Analytics Internship (August 2021). The goal of this project is to perform Exploratory Data Analysis (EDA) on the "globalterrorismdb" dataset, with the objective of gaining insights into global terrorism trends, including hotspots, the number of casualties, the most active terrorist organizations, and more.
+This project is part of the GRIP (The Sparks Foundation) Data Science and Business Analytics Internship (September 2023). The goal of this project is to perform Exploratory Data Analysis (EDA) on the "globalterrorismdb" dataset, with the objective of gaining insights into global terrorism trends, including hotspots, the number of casualties, the most active terrorist organizations, and more.
 
 **Author**: Tanmay M Gadre
 
